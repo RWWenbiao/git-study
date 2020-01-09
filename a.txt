@@ -1,9 +1,1 @@
-hello
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa black
-
-change by write
-change by black 
-
-
-
-ahhahahhaaha
+a.txt
